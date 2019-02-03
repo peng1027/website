@@ -58,7 +58,7 @@ export const Footer = () => (
 				<NavTitle>Discover</NavTitle>
 				<NavItems>
 					<NavItem>
-						<NavLink to="https://musicoin.org/welcome-musician">
+						<NavLink to="https://musicoin.org/nav/feed">
 							Web Application
 						</NavLink>
 					</NavItem>
